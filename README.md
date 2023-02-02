@@ -6,9 +6,9 @@
 
 - 🔭 I’m currently working on [Chatterblock](Chatterblock.com)
 
-- 🌱 I’m currently learning **Javascript,ReactJS,and ruby on rails**
+- 🌱 I’m currently learning **React-Native,and ruby on rails**
 
-- 💬 Ask me about **react,django, ionic, python**
+- 💬 Ask me about **ReactJS,Django, Ionic, Python, React-Native, Django-Rest-Framework**
 
 - 📫 How to reach me **douglas.luzinda.ot@gmail.com**
 
