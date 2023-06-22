@@ -4,7 +4,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ldouglasot" alt="ldouglasot" /></a> </p>
 
-- 🔭 I’m currently working on [Chatterblock](Chatterblock.com)
+- 🔭 I’m currently working on [chatterhigh](chatterhigh.com)
 
 - 🌱 I’m currently learning **React-Native,and ruby on rails**
 
